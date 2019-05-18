@@ -1,0 +1,5 @@
+D:\UNT\PU\Lenguaje 1\TP6\tp-nro6-nico123335\Punto2\Punto2\obj\Debug\ResolveAssemblyReference.cache
+D:\UNT\PU\Lenguaje 1\TP6\tp-nro6-nico123335\Punto2\Punto2\bin\Debug\Punto2.exe
+D:\UNT\PU\Lenguaje 1\TP6\tp-nro6-nico123335\Punto2\Punto2\bin\Debug\Punto2.pdb
+D:\UNT\PU\Lenguaje 1\TP6\tp-nro6-nico123335\Punto2\Punto2\obj\Debug\Punto2.exe
+D:\UNT\PU\Lenguaje 1\TP6\tp-nro6-nico123335\Punto2\Punto2\obj\Debug\Punto2.pdb
